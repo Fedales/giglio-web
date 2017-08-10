@@ -46,7 +46,7 @@ if ($(window).width() > 768) {
 
 
 $('.centerelement').css({
-  'left' : (st * .5) + 'px', 'max-height' : wh ,
+  'margin-left' : (st * .5) + 'px', 'max-height' : wh ,
   // 'background-position' : "center " + (st*.2) + 'px',
 });
 
